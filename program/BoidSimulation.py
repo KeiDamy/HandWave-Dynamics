@@ -7,7 +7,7 @@ __version__ = '1.0.0'
 __date__ = '2023/12/08(Created: 2023/12/08)'
 
 from ast import List
-from program.Boid import Boid
+from Boid import Boid
 
 class BoidSimulation():
     """Boidsアルゴリズムを用いて生物群の動きをシュミレートするクラス"""

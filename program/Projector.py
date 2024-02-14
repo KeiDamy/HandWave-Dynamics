@@ -6,7 +6,7 @@ __author__ = 'Yokokawa Kotaro'
 __version__ = '1.0.0'
 __date__ = '2023/12/08(Created: 2023/12/08)'
 
-from program.Resolution import Resolution
+from Resolution import Resolution
 
 class Projector:
     """プロジェクター装置を表すクラス"""

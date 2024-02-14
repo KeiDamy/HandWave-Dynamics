@@ -6,7 +6,7 @@ __author__ = 'Yokokawa Kotaro'
 __version__ = '1.0.0'
 __date__ = '2023/12/08(Created: 2023/12/08)'
 
-from program.Position import Position
+from Position import Position
 
 class RippleEffect:
     """手の位置から波紋エフェクトを生成するクラス"""

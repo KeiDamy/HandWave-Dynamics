@@ -8,7 +8,7 @@ __date__ = '2023/12/08(Created: 2023/12/08)'
 
 import sys
 
-from program.ApplicationController import ApplicationController
+from ApplicationController import ApplicationController
 
 if __name__ == '__main__':
     anApplicationController = ApplicationController()

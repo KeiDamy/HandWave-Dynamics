@@ -7,8 +7,8 @@ __version__ = '1.0.0'
 __date__ = '2023/12/08(Created: 2023/12/08)'
 
 from math import cos, sin
-from program.Position import Position
-from program.Velocity import Velocity
+from Position import Position
+from Velocity import Velocity
 
 class Boid:
     """個々の生物を表すクラス"""
